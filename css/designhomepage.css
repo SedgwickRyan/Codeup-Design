@@ -1,0 +1,27 @@
+.design-circle {
+    background-color: #e6563b !important;
+}
+
+.develop-circle {
+    background-color: #eb9d3a !important;
+}
+
+.support-circle {
+    background-color: #7cb06c !important;
+}
+
+.host-circle {
+    background-color: #00aba9 !important;
+}
+.dot-large {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+.dot-small {
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+}
