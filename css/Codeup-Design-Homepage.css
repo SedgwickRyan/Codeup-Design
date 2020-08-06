@@ -20,12 +20,12 @@ h1, h3, h5{
     background-color: #00aba9 !important;
 }
 .dot-large {
-    height: 150px;
-    width: 150px;
+    height: 105px;
+    width: 105px;
     border-radius: 50%;
-    border: 12px solid white;
+    border: 6px solid white;
     color: white;
-    font-size: 30px;
+    font-size: 20px;
     padding: 0;
     text-align: center;
     font-family: 'Anton', sans-serif;
