@@ -1,7 +1,7 @@
 .primary {
     background-color: #f0f0f0 !important;
 }
-h1, h3{
+h1, h3, h5{
     font-family: 'Anton', sans-serif;
 }
 .design-circle {
@@ -44,7 +44,6 @@ h1, h3{
 }
 
 .selected-works{
-    /*border: none;*/
     font-family: 'Abel', sans-serif;
     font-size: 18px;
 }
@@ -57,21 +56,7 @@ h1, h3{
     height: auto;
 }
 .the-last{
-    /*width: 25px;*/
-    /*height: 25px;*/
     float: left;
-    max-width: 30px;
-    height: auto;
+    width: 50px;
+    height: 50px;
 }
-
-/*.the-last img{*/
-/*    max-width: 30px;*/
-/*    height: auto;*/
-/*}*/
-
-/*.the-last1 {*/
-/*    width: 25px;*/
-/*    height: 25px;*/
-/*    fill: #1ca2f3;*/
-/*    float: left;*/
-/*}*/
