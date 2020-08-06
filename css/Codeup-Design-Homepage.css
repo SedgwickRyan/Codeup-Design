@@ -57,14 +57,21 @@ h1, h3{
     height: auto;
 }
 .the-last{
-    width: 25px;
-    height: 25px;
+    /*width: 25px;*/
+    /*height: 25px;*/
     float: left;
+    max-width: 30px;
+    height: auto;
 }
 
-.the-last1 {
-    width: 25px;
-    height: 25px;
-    fill: #1ca2f3;
-    float: left;
-}
+/*.the-last img{*/
+/*    max-width: 30px;*/
+/*    height: auto;*/
+/*}*/
+
+/*.the-last1 {*/
+/*    width: 25px;*/
+/*    height: 25px;*/
+/*    fill: #1ca2f3;*/
+/*    float: left;*/
+/*}*/
