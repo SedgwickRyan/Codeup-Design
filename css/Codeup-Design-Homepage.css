@@ -122,9 +122,59 @@ ul {
 
 }
 
-@media screen and (min-width:576px) and (max-width: 768px) {
+@media screen and (min-width:577px) and (max-width: 768px) {
     .logo-design {
         position: absolute;
         left: calc(50% - 52px);
-        top:20px;
+        top: 20px;
     }
+    .codeup-header {
+        position: relative;
+        top: 85px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .byline {
+        margin-top: 125px;
+        width: 100%;
+    }
+
+    ul {
+        position: relative;
+        top: -40px;
+        display: flex;
+        justify-content: space-around;
+        padding: 0;
+    }
+
+    hr {
+        width: 70%;
+    }
+
+    .big-dots {
+        padding: 0;
+    }
+
+
+}
+
+@media screen and (min-width:769px) and (max-width: 992px) {
+    .nav-background {
+       position: relative;
+    }
+
+    ul {
+        margin: auto ;
+    }
+
+    .logo-design {
+        position: absolute;
+        left: 30px;
+        top: -25px;
+    }
+    .codeup-header {
+        position: absolute;
+        left: 125px;
+    }
+}
